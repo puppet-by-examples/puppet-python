@@ -1,0 +1,8 @@
+name    'gajdaw-python'
+version '0.1.9'
+source 'git://github.com/pro-vagrant/puppet-python.git'
+author ' Włodzimierz Gajda'
+license 'MIT'
+summary 'The module to install python'
+description 'The module to install python'
+project_page 'https://github.com/pro-vagrant/puppet-python'
