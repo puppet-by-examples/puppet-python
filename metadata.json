@@ -1,10 +1,10 @@
 {
     "name": "gajdaw-python",
     "version": "0.1.9",
-    "source": "https://github.com/pro-vagrant/puppet-python",
+    "source": "https://github.com/puppet-by-examples/puppet-python",
     "author": "Włodzimierz Gajda",
     "license": "MIT",
-    "project_page": "https://github.com/pro-vagrant/puppet-python",
+    "project_page": "https://github.com/puppet-by-examples/puppet-python",
     "summary": "Puppet module to install python",
     "operatingsystem_support": [
       {
